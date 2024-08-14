@@ -1,1 +1,28 @@
-/* your code here */
+.product__photo{
+	display:flex;
+	
+	background-color:white;
+}
+.photo-container{
+	
+	
+	
+	
+}
+.photo-main > img{
+	background-color:green;
+}
+.photo-album > ul > li > img{
+	display:
+	grid-row-start:1;
+	grid-row-end:4;
+
+	background-color:red;
+	
+	
+}
+.product{
+	width:400px;
+	height:350px;
+	background-color:green;
+}
