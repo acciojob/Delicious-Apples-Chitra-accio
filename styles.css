@@ -1,28 +1,32 @@
 .product__photo{
 	display:flex;
-	
-	background-color:white;
+    background-color:white;
 }
 .photo-container{
 	
-	
-	
+}
+.price{
+	color:red;
+	font-size:30px;
+}
+.varient > ul > li > img >{
 	
 }
 .photo-main > img{
 	background-color:green;
 }
 .photo-album > ul > li > img{
-	display:
-	grid-row-start:1;
-	grid-row-end:4;
-
 	background-color:red;
-	
-	
 }
 .product{
 	width:400px;
 	height:350px;
 	background-color:green;
+}
+#button{
+	background-color:red;
+	color:white;
+	padding:10px;
+	border-radius:10px;
+	
 }
